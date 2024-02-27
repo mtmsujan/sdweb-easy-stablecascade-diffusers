@@ -1,6 +1,4 @@
-# Stable Cascade in stable-diffusion-webui
-
-Please have someone remake this extension.
+# Stable Cascade in stable-diffusion-webui-Forge
 
 ## Requirements
 
@@ -10,7 +8,7 @@ Please have someone remake this extension.
 
 ![](images/ss1.webp)
 
-##API Endpoint
+## API Endpoint
 
 http://127.0.0.1:7860/cascade
 
